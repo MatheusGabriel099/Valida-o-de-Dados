@@ -1,0 +1,11 @@
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\bin\Debug\ValidaçãoDeDados.exe.config
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\bin\Debug\ValidaçãoDeDados.exe
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\bin\Debug\ValidaçãoDeDados.pdb
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\obj\Debug\ValidaçãoDeDados.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\obj\Debug\ValidaçãoDeDados.Form1.resources
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\obj\Debug\ValidaçãoDeDados.Properties.Resources.resources
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\obj\Debug\ValidaçãoDeDados.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\obj\Debug\ValidaçãoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\obj\Debug\ValidaçãoDeDados.exe
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\obj\Debug\ValidaçãoDeDados.pdb
+C:\Users\DB\Desktop\ValidaçãoDeDados\ValidaçãoDeDados\obj\Debug\ValidaçãoDeDados.exe.config
